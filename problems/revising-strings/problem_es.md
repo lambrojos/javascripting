@@ -1,7 +1,3 @@
----
-
-# MODIFICANDO STRINGS
-
 A menudo necesitarás cambiar el contenido de una string.
 
 Las strings tienen una funcionalidad por defecto que te permite reemplazar caracteres.
@@ -22,7 +18,7 @@ del método `example.replace()` del lado derecho del signo.
 
 Crea un archivo llamado `revising-strings.js`.
 
-Define una variable llamada `pizza` que referencie esta string: `pizza is alright`
+Define una variable llamada `pizza` que referencie esta string: `'pizza is alright'`
 
 Utiliza el método `.replace()` para cambiar `alright` con `wonderful`.
 
@@ -31,5 +27,3 @@ Luego, utiliza `console.log()` para imprimir los resultados del método `.replac
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
 `javascripting verify revising-strings.js`
-
----

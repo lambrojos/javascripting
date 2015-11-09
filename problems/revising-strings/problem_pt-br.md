@@ -1,7 +1,3 @@
----
-
-# MODIFICANDO STRINGS
-
 Frequentemente você precisará mudar o conteúdo de uma string.
 
 As strings tem funcionalidades que te permitem inspecionar e manipular seus conteúdos.
@@ -22,7 +18,7 @@ direito dele.
 
 Crie um arquivo chamado `revising-strings.js`.
 
-Defina uma variável chamada `pizza` que referencia esta string: `pizza is alright`
+Defina uma variável chamada `pizza` que referencia esta string: `'pizza is alright'`
 
 Use o método `.replace()` para modificar o `alright` para `wonderful`.
 
@@ -31,5 +27,3 @@ Use o `console.log()` para imprimir o resultado do método `.replace()` no termi
 Verifique se o seu programa está correto executando este comando:
 
 `javascripting verify revising-strings.js`
-
----

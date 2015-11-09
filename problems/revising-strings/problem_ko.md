@@ -1,7 +1,3 @@
----
-
-# 문자열 뒤집기
-
 문자열의 내용을 바꿀 경우가 종종 생깁니다.
 
 문자열은 내용을 조작하고 살펴보는 내장 기능을 가지고 있습니다.
@@ -20,7 +16,7 @@ console.log(example);
 
 `revising-strings.js`라는 파일을 만드세요.
 
-`pizza is alright` 문자열을 참조하는 `pizza`라는 변수를 정의합니다.
+`'pizza is alright'` 문자열을 참조하는 `pizza`라는 변수를 정의합니다.
 
 `.replace()` 메소드를 사용해 `alright`을 `wonderful`로 바꿉니다.
 
@@ -29,5 +25,3 @@ console.log(example);
 이 명령어를 실행해 프로그램이 올바른지 확인하세요.
 
 `javascripting verify revising-strings.js`
-
----
