@@ -1,6 +1,6 @@
 Lo `scope` o ambito è l'insieme di variabili, oggetti e funzioni a cui hai accesso.
 
-JavaScript possiede due ambiti: `globale` e `locale`. Una variabile dichiarata fuori da qualsiasi definizione di funzione  definition è una variabile `globale`, e il suo valore è accessibile e modificabile all'interno dell'intero programma. Una variabile dichiarata dentro una definizione di funzione è `locale`. Viene creata e distrutta ogni volta che la funzione viene eseguita, e non può essere acceduta da codice esterno alla funzione.
+JavaScript possiede due ambiti: `globale` e `locale`. Una variabile dichiarata fuori da qualsiasi definizione di funzione è una variabile `globale`, e il suo valore è accessibile e modificabile all'interno dell'intero programma. Una variabile dichiarata dentro una definizione di funzione è `locale`. Viene creata e distrutta ogni volta che la funzione viene eseguita, e non può essere acceduta da codice esterno alla funzione.
 
 Le funzioni definite all'interno di altre funzioni, note come funzioni annidate, hanno accesso all'ambito della propria funzione genitrice.
 

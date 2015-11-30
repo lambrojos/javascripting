@@ -24,7 +24,7 @@ type NUL > introduction.js
 ```
 (`type` è parte del comando!)
 
-Apri il file nel tuo edito preferito, e aggiungi questo testo:
+Apri il file nel tuo editor preferito, e aggiungi questo testo:
 
 ```js
 console.log('hello');
